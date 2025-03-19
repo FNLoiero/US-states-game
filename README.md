@@ -1,4 +1,4 @@
-# 🇺🇸 U.S. State Game
+# U.S. State Game
 
 Un juego educativo en el que intentás adivinar los nombres de los 50 estados de EE.UU. utilizando la librería **Turtle** de Python.
 
